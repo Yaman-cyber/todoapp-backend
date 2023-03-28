@@ -1,53 +1,18 @@
-[{
-  "_id": {
-    "$oid": "642323be36b6b098c0345297"
+[
+  {
+    "_id": "642323be36b6b098c0345297",
+    "users": ["64216a69ab8b1a4bbfc0291c", "64220310cc2c4b7f52aa341c"],
+    "starter": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T17:28:30.742Z",
+    "updatedAt": "2023-03-28T17:28:30.742Z",
+    "__v": 0
   },
-  "users": [
-    {
-      "$oid": "64216a69ab8b1a4bbfc0291c"
-    },
-    {
-      "$oid": "64220310cc2c4b7f52aa341c"
-    }
-  ],
-  "starter": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1680024510742"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680024510742"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "642323e236b6b098c03452a1"
-  },
-  "users": [
-    {
-      "$oid": "64216a69ab8b1a4bbfc0291c"
-    },
-    {
-      "$oid": "64216bb10ed1828a11f2d110"
-    }
-  ],
-  "starter": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1680024546745"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680024546745"
-    }
-  },
-  "__v": 0
-}]
+  {
+    "_id": "642323e236b6b098c03452a1",
+    "users": ["64216a69ab8b1a4bbfc0291c", "64216bb10ed1828a11f2d110"],
+    "starter": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T17:29:06.745Z",
+    "updatedAt": "2023-03-28T17:29:06.745Z",
+    "__v": 0
+  }
+]

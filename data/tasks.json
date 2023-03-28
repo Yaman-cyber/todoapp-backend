@@ -1,525 +1,227 @@
-[{
-  "_id": {
-    "$oid": "64228d7bdbd920f203e7ec75"
-  },
-  "title": "sdsd 333",
-  "description": "sdsd",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1678924800000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64220310cc2c4b7f52aa341c"
-  },
-  "isCompleted": false,
-  "completedAt": null,
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679986043756"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1679992398082"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "64228da2dbd920f203e7ec78"
-  },
-  "title": "sdsd 222",
-  "description": "sdsd",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1678924800000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64216bb10ed1828a11f2d110"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1679993334705"
-    }
-  },
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679986082297"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680002823533"
-    }
-  },
-  "__v": 0,
-  "closed": true
-},{
-  "_id": {
-    "$oid": "64228ddcdbd920f203e7ec7c"
-  },
-  "title": "sdsd",
-  "description": "sdsd",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1678924800000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64216bb10ed1828a11f2d110"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1679992024592"
-    }
-  },
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679986140296"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680002823533"
-    }
-  },
-  "__v": 0,
-  "closed": true
-},{
-  "_id": {
-    "$oid": "64228df1dbd920f203e7ec87"
-  },
-  "title": "ret",
-  "description": "sds",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1679616000000"
-    }
-  },
-  "priority": "low",
-  "assignedTo": {
-    "$oid": "64216bb10ed1828a11f2d110"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1679993571740"
-    }
-  },
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679986161947"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680002823533"
-    }
-  },
-  "__v": 0,
-  "closed": true
-},{
-  "_id": {
-    "$oid": "64228e09dbd920f203e7ec92"
-  },
-  "title": "ssd",
-  "description": "sdsd",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1679616000000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64220310cc2c4b7f52aa341c"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1679997894242"
-    }
-  },
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679986185524"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1679997894242"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "642290dadbd920f203e7ecb7"
-  },
-  "title": "test todo",
-  "description": "any test",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1680912000000"
-    }
-  },
-  "priority": "high",
-  "assignedTo": {
-    "$oid": "64216bb10ed1828a11f2d110"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1679997346840"
-    }
-  },
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679986906974"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680002823533"
-    }
-  },
-  "__v": 0,
-  "closed": true
-},{
-  "_id": {
-    "$oid": "6422992bfc77f89e3ee4e739"
-  },
-  "title": "asas",
-  "description": "asas",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1678233600000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64220310cc2c4b7f52aa341c"
-  },
-  "isCompleted": false,
-  "completedAt": null,
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679989035885"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1679998047585"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "64229c65fc77f89e3ee4e822"
-  },
-  "title": "test",
-  "description": "any",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1679616000000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64216bb10ed1828a11f2d110"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1679993454378"
-    }
-  },
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679989861895"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680002823533"
-    }
-  },
-  "__v": 0,
-  "closed": true
-},{
-  "_id": {
-    "$oid": "6422a66c7ee6c4f6cbdbb664"
-  },
-  "title": "sdsd 44",
-  "description": "sdsd",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1679529600000"
-    }
-  },
-  "priority": "high",
-  "assignedTo": {
-    "$oid": "64220310cc2c4b7f52aa341c"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1679992517058"
-    }
-  },
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679992428279"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1679992517059"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6422ad4f654d66c77f8c0fc3"
-  },
-  "title": "sasa",
-  "description": "asas",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1678924800000"
-    }
-  },
-  "priority": "low",
-  "assignedTo": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1679997397483"
-    }
-  },
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1679994191936"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680002957146"
-    }
-  },
-  "__v": 0,
-  "closed": true
-},{
-  "_id": {
-    "$oid": "6422c691eb34072d97744d72"
-  },
-  "title": "asss",
-  "description": "ss",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1680134400000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64216bb10ed1828a11f2d110"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1680002023891"
-    }
-  },
-  "closed": true,
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1680000657708"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680002823533"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6422c70f884d71e541811ba8"
-  },
-  "title": "aaa",
-  "description": "sss",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1680307200000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1680001454375"
-    }
-  },
-  "closed": true,
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1680000783019"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680002957146"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6422cd447c24d6800c657b76"
-  },
-  "title": "test 123456",
-  "description": "sdsd",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1680220800000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64216bb10ed1828a11f2d110"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1680019927494"
-    }
-  },
-  "closed": true,
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1680002372741"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680019927494"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6422cd557c24d6800c657b8c"
-  },
-  "title": "sd",
-  "description": "sdsd",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1680220800000"
-    }
-  },
-  "priority": "medium",
-  "assignedTo": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "isCompleted": true,
-  "completedAt": {
-    "$date": {
-      "$numberLong": "1680002945402"
-    }
-  },
-  "closed": true,
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1680002389834"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680002957146"
-    }
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "6423204b66cdeb95f7ad099f"
-  },
-  "title": "test task",
-  "description": "test",
-  "dueDate": {
-    "$date": {
-      "$numberLong": "1701561600000"
-    }
-  },
-  "priority": "low",
-  "assignedTo": {
-    "$oid": "64216bb10ed1828a11f2d110"
-  },
-  "isCompleted": false,
-  "completedAt": null,
-  "closed": false,
-  "addedBy": {
-    "$oid": "64216a69ab8b1a4bbfc0291c"
-  },
-  "createdAt": {
-    "$date": {
-      "$numberLong": "1680023627732"
-    }
-  },
-  "updatedAt": {
-    "$date": {
-      "$numberLong": "1680023627732"
-    }
-  },
-  "__v": 0
-}]
+[
+  {
+    "closed": false,
+    "_id": "64228d7bdbd920f203e7ec75",
+    "title": "sdsd 333",
+    "description": "sdsd",
+    "dueDate": "2023-03-16T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64220310cc2c4b7f52aa341c",
+    "isCompleted": false,
+    "completedAt": null,
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T06:47:23.756Z",
+    "updatedAt": "2023-03-28T08:33:18.082Z",
+    "__v": 0
+  },
+  {
+    "_id": "64228da2dbd920f203e7ec78",
+    "title": "sdsd 222",
+    "description": "sdsd",
+    "dueDate": "2023-03-16T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64216bb10ed1828a11f2d110",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T08:48:54.705Z",
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T06:48:02.297Z",
+    "updatedAt": "2023-03-28T11:27:03.533Z",
+    "__v": 0,
+    "closed": true
+  },
+  {
+    "_id": "64228ddcdbd920f203e7ec7c",
+    "title": "sdsd",
+    "description": "sdsd",
+    "dueDate": "2023-03-16T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64216bb10ed1828a11f2d110",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T08:27:04.592Z",
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T06:49:00.296Z",
+    "updatedAt": "2023-03-28T11:27:03.533Z",
+    "__v": 0,
+    "closed": true
+  },
+  {
+    "_id": "64228df1dbd920f203e7ec87",
+    "title": "ret",
+    "description": "sds",
+    "dueDate": "2023-03-24T00:00:00.000Z",
+    "priority": "low",
+    "assignedTo": "64216bb10ed1828a11f2d110",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T08:52:51.740Z",
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T06:49:21.947Z",
+    "updatedAt": "2023-03-28T11:27:03.533Z",
+    "__v": 0,
+    "closed": true
+  },
+  {
+    "closed": false,
+    "_id": "64228e09dbd920f203e7ec92",
+    "title": "ssd",
+    "description": "sdsd",
+    "dueDate": "2023-03-24T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64220310cc2c4b7f52aa341c",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T10:04:54.242Z",
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T06:49:45.524Z",
+    "updatedAt": "2023-03-28T10:04:54.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "642290dadbd920f203e7ecb7",
+    "title": "test todo",
+    "description": "any test",
+    "dueDate": "2023-04-08T00:00:00.000Z",
+    "priority": "high",
+    "assignedTo": "64216bb10ed1828a11f2d110",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T09:55:46.840Z",
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T07:01:46.974Z",
+    "updatedAt": "2023-03-28T11:27:03.533Z",
+    "__v": 0,
+    "closed": true
+  },
+  {
+    "closed": false,
+    "_id": "6422992bfc77f89e3ee4e739",
+    "title": "asas",
+    "description": "asas",
+    "dueDate": "2023-03-08T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64220310cc2c4b7f52aa341c",
+    "isCompleted": false,
+    "completedAt": null,
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T07:37:15.885Z",
+    "updatedAt": "2023-03-28T10:07:27.585Z",
+    "__v": 0
+  },
+  {
+    "_id": "64229c65fc77f89e3ee4e822",
+    "title": "test",
+    "description": "any",
+    "dueDate": "2023-03-24T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64216bb10ed1828a11f2d110",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T08:50:54.378Z",
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T07:51:01.895Z",
+    "updatedAt": "2023-03-28T11:27:03.533Z",
+    "__v": 0,
+    "closed": true
+  },
+  {
+    "closed": false,
+    "_id": "6422a66c7ee6c4f6cbdbb664",
+    "title": "sdsd 44",
+    "description": "sdsd",
+    "dueDate": "2023-03-23T00:00:00.000Z",
+    "priority": "high",
+    "assignedTo": "64220310cc2c4b7f52aa341c",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T08:35:17.058Z",
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T08:33:48.279Z",
+    "updatedAt": "2023-03-28T08:35:17.059Z",
+    "__v": 0
+  },
+  {
+    "_id": "6422ad4f654d66c77f8c0fc3",
+    "title": "sasa",
+    "description": "asas",
+    "dueDate": "2023-03-16T00:00:00.000Z",
+    "priority": "low",
+    "assignedTo": "64216a69ab8b1a4bbfc0291c",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T09:56:37.483Z",
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T09:03:11.936Z",
+    "updatedAt": "2023-03-28T11:29:17.146Z",
+    "__v": 0,
+    "closed": true
+  },
+  {
+    "_id": "6422c691eb34072d97744d72",
+    "title": "asss",
+    "description": "ss",
+    "dueDate": "2023-03-30T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64216bb10ed1828a11f2d110",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T11:13:43.891Z",
+    "closed": true,
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T10:50:57.708Z",
+    "updatedAt": "2023-03-28T11:27:03.533Z",
+    "__v": 0
+  },
+  {
+    "_id": "6422c70f884d71e541811ba8",
+    "title": "aaa",
+    "description": "sss",
+    "dueDate": "2023-04-01T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64216a69ab8b1a4bbfc0291c",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T11:04:14.375Z",
+    "closed": true,
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T10:53:03.019Z",
+    "updatedAt": "2023-03-28T11:29:17.146Z",
+    "__v": 0
+  },
+  {
+    "_id": "6422cd447c24d6800c657b76",
+    "title": "test 123456",
+    "description": "sdsd",
+    "dueDate": "2023-03-31T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64216bb10ed1828a11f2d110",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T16:12:07.494Z",
+    "closed": true,
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T11:19:32.741Z",
+    "updatedAt": "2023-03-28T16:12:07.494Z",
+    "__v": 0
+  },
+  {
+    "_id": "6422cd557c24d6800c657b8c",
+    "title": "sd",
+    "description": "sdsd",
+    "dueDate": "2023-03-31T00:00:00.000Z",
+    "priority": "medium",
+    "assignedTo": "64216a69ab8b1a4bbfc0291c",
+    "isCompleted": true,
+    "completedAt": "2023-03-28T11:29:05.402Z",
+    "closed": true,
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T11:19:49.834Z",
+    "updatedAt": "2023-03-28T11:29:17.146Z",
+    "__v": 0
+  },
+  {
+    "_id": "6423204b66cdeb95f7ad099f",
+    "title": "test task",
+    "description": "test",
+    "dueDate": "2023-12-03T00:00:00.000Z",
+    "priority": "low",
+    "assignedTo": "64216bb10ed1828a11f2d110",
+    "isCompleted": false,
+    "completedAt": null,
+    "closed": false,
+    "addedBy": "64216a69ab8b1a4bbfc0291c",
+    "createdAt": "2023-03-28T17:13:47.732Z",
+    "updatedAt": "2023-03-28T17:13:47.732Z",
+    "__v": 0
+  }
+]
