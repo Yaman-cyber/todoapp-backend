@@ -4,4 +4,4 @@ To seed data to database run
 
 To start project run
 
-### `nodemon` or ### `node index.js`
+### `npm i` then `nodemon` or ### `node index.js`
