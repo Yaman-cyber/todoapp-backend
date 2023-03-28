@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "64216a69ab8b1a4bbfc0291c"
+  },
+  "email": "yamanarab9@gmail.com",
+  "password": "$2a$10$yZhsIN86lKybw3DklhWIheAjlZY8PqjbgLqC4nbYQbXReFnFz9ksO",
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679911529608"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679911529608"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64216bb10ed1828a11f2d110"
+  },
+  "email": "yaman_arab@yahoo.com",
+  "password": "$2a$10$2zpJ0HvV/htBi2FGKPZBO.smWAFJl1j2k9HLqfGhmnINzuQO5TWGS",
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679911857041"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679911857041"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64220310cc2c4b7f52aa341c"
+  },
+  "email": "yaman_arab9@yahoo.com",
+  "password": "$2a$10$1pFWmaDqx.RrbLNl5xb0puC4WiS7HYvdBH2mVv6EY6BknWXWtN.7C",
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679950608306"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679950608306"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64228b6bdbd920f203e7ec41"
+  },
+  "email": "ucompare@ucompare.com",
+  "password": "$2a$10$scAQ9KA4dqG5wBptOxB9E.qnucsnmWs8u3RMeYUUf3YYuYYHMCBXy",
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679985515680"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679985515680"
+    }
+  },
+  "__v": 0
+}]

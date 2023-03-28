@@ -1,0 +1,12 @@
+{
+  "unAuthorized": "Can't preform this action",
+  "invalidToken": "Token is invalid",
+  "inavlidCreadintials": "Wrong email or password",
+  "addSuccsess": "Record addedd successfuly",
+  "getSuccess": "Record get success",
+  "updateSuccess": "Record update success",
+  "deleteSuccess": "Record delete success",
+  "notFound": "No records found",
+  "userExist": "Can't use this email",
+  "notCompleted": "All tasks must be completed first"
+}
